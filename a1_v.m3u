@@ -83,7 +83,7 @@ plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=206
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=197
 #EXTINF:-1 tvg-id="Ribalka" tvg-logo="http://logos.kodibg.org/ribalka.png",Рыбалка и охота
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=44
-#EXTINF:-1 tvg-id="WildTV" tvg-logo="https://wildtv.ca/wp-content/uploads/2019/03/Wild-Pursuit-Network-Logo-01-copyFIT.png",Wild TV HD
+#EXTINF:-1 tvg-id="WildTV" tvg-logo="https://www.a1.bg/getmedia/8a61b5f3-c83a-4d29-86c5-2ccc85b55790/maxhd_wildtv_hd.png.aspx?width=72&height=74&ext=.png",Wild TV HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=45
 #EXTINF:-1 tvg-id="wness" tvg-logo="http://logos.kodibg.org/wness.png",Wness TV HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=199
@@ -129,7 +129,7 @@ plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=117
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=116
 #EXTINF:-1 tvg-id="DeutscheWelle" tvg-logo="http://logos.kodibg.org/deutschewelle.png",Deutsche Welle
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=95
-#EXTINF:-1 tvg-id="France24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.a1.bg/getmedia/be1064a2-f876-44ae-adbf-c4c24f550edc/france-24-english.jpg.aspx?width=455&height=620&ext=.jpg",France 24
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=99
 #EXTINF:-1 tvg-id="Mediaset" tvg-logo="https://www.logosurfer.com/wp-content/uploads/2018/03/mediaset-logo_0.png",Mediaset
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=129
