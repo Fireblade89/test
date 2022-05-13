@@ -9,7 +9,7 @@ plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=154
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=284
 #EXTINF:-1 tvg-id="BULGARIAONAIR" tvg-logo="http://logos.kodibg.org/bulgariaonair.png",BULGARIA ON AIR
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=8
-#EXTINF:-1 tvg-id="tveurope" tvg-logo="http://logos.kodibg.org/tveurope.png",Телевизия Европа
+#EXTINF:-1 tvg-id="tveurope" tvg-logo="http://logos.kodibg.org/euronews.png",Euronews
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=87
 #EXTINF:-1 tvg-id="Eurocom" tvg-logo="http://logos.kodibg.org/eurocom.png",Евроком HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=285
