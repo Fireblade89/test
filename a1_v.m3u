@@ -71,8 +71,6 @@ plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=70
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=73
 #EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://logos.kodibg.org/boomerang.png",Boomerang Europe
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=68
-#EXTINF:-1 tvg-id="myzen" tvg-logo="http://logos.kodibg.org/myzen.png",My Zen TV
-plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=230
 #EXTINF:-1 tvg-id="ViasatNature" tvg-logo="http://logos.kodibg.org/viasatnature.png",Viasat Nature HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=229
 #EXTINF:-1 tvg-id="ViasatExplorer" tvg-logo="http://logos.kodibg.org/viasatexplorer.png",Viasat Explorer HD
