@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BNT1" tvg-logo="http://logos.kodibg.org/bnt1.png",БНТ 1 HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=231
-#EXTINF:-1 tvg-id="bTV" tvg-logo="http://logos.kodibg.org/btv.png",bTV HD
+#EXTINF:-1 tvg-id="bTV" tvg-logo="http://logos.kodibg.org/btv.png",БТВ
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=165
-#EXTINF:-1 tvg-id="NOVA" tvg-logo="http://logos.kodibg.org/nova.png",NOVA HD
+#EXTINF:-1 tvg-id="NOVA" tvg-logo="http://logos.kodibg.org/nova.png",НОВА
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=154
 #EXTINF:-1 tvg-id="novanews" tvg-logo="http://logos.kodibg.org/novanews.png",Nova News HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=284
