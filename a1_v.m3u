@@ -138,7 +138,7 @@ plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=170
 #EXTINF:-1 tvg-id="TV1" tvg-logo="http://logos.epg.cloudns.org/tv1.png",TV 1 HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=127
 #EXTINF:-1 tvg-id="b1bbox" tvg-logo="http://logos.epg.cloudns.org/b1bbox.png",B1B Box
-https://i.cdn.bg/live/LkOptIUYDF
+https://e105-ts.cdn.bg/b1b/fls/b1btv.stream/playlist.m3u8?at=3c4937c92ab35fa5c7a0387b2869fe29
 #EXTINF:-1 tvg-id="sportalbg" tvg-logo="http://logos.epg.cloudns.org/sportalbg.png",Sportal TV
 https://novini.bg/tvswf/aWQ9NzAz
 #EXTINF:-1 tvg-id="tv999" tvg-logo="http://logos.epg.cloudns.org/tv999.png",TV999
