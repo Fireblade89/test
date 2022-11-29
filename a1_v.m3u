@@ -142,6 +142,6 @@ https://i.cdn.bg/live/LkOptIUYDF
 #EXTINF:-1 tvg-id="sportalbg" tvg-logo="http://logos.epg.cloudns.org/sportalbg.png",Sportal TV
 https://novini.bg/tvswf/aWQ9NzAz
 #EXTINF:-1 tvg-id="tv999" tvg-logo="http://logos.epg.cloudns.org/tv999.png",TV999
-plugin://plugin.video.bgtv999/?url=http%3A%2F%2Flive.optinet.bg%2Fn%2F999%2Findex.m3u8%3Fst%3Ddxvbr707JBqT29-EUptEaA%26e%3D1669723469&amp;mode=2&amp;name=%D0%A2%D0%92+999
+plugin://plugin.video.bgtv999/?url=http://live.optinet.bg/n/999/index.m3u8?st=dxvbr707JBqT29-EUptEaA&e=1669723469&amp;mode=2&amp;name=ТВ+999
 #EXTINF:-1 tvg-id="codefashion" tvg-logo="http://logos.epg.cloudns.org/codefashion.png",Code Fashion
 https://cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
