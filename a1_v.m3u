@@ -140,7 +140,7 @@ plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=127
 #EXTINF:-1 tvg-id="b1bbox" tvg-logo="http://logos.epg.cloudns.org/b1bbox.png",B1B Box
 https://e105-ts.cdn.bg/b1b/fls/b1btv.stream/playlist.m3u8?at=3c4937c92ab35fa5c7a0387b2869fe29
 #EXTINF:-1 tvg-id="sportalbg" tvg-logo="http://logos.epg.cloudns.org/sportalbg.png",Sportal TV
-https://novini.bg/tvswf/aWQ9NzAz
+https://e115-ts.cdn.bg/sportal/fls//sportal_fullhd/playlist.m3u8?at=3c4937c92ab35fa5c7a0387b2869fe29
 #EXTINF:-1 tvg-id="tv999" tvg-logo="http://logos.epg.cloudns.org/tv999.png",TV999
 plugin://plugin.video.bgtv999/?url=http%3A%2F%2Flive.optinet.bg%2Fn%2F999%2Findex.m3u8%3Fst%3DY7cXwz2W6fWtqOCIEeF2Jw%26e%3D1669732520&mode=2&name=%D0%A2%D0%92+999
 #EXTINF:-1 tvg-id="codefashion" tvg-logo="http://logos.epg.cloudns.org/codefashion.png",Code Fashion
