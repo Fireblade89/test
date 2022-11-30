@@ -137,11 +137,409 @@ plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=42
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=170
 #EXTINF:-1 tvg-id="TV1" tvg-logo="http://logos.epg.cloudns.org/tv1.png",TV 1 HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=127
-#EXTINF:-1 tvg-id="b1bbox" tvg-logo="http://logos.epg.cloudns.org/b1bbox.png",B1B Box
-https://e105-ts.cdn.bg/b1b/fls/b1btv.stream/playlist.m3u8?at=3c4937c92ab35fa5c7a0387b2869fe29
-#EXTINF:-1 tvg-id="sportalbg" tvg-logo="http://logos.epg.cloudns.org/sportalbg.png",Sportal TV
-https://e115-ts.cdn.bg/sportal/fls//sportal_fullhd/playlist.m3u8?at=3c4937c92ab35fa5c7a0387b2869fe29
-#EXTINF:-1 tvg-id="tv999" tvg-logo="http://logos.epg.cloudns.org/tv999.png",TV999
-plugin://plugin.video.bgtv999/?url=http%3A%2F%2Flive.optinet.bg%2Fn%2F999%2Findex.m3u8%3Fst%3DY7cXwz2W6fWtqOCIEeF2Jw%26e%3D1669732520&mode=2&name=%D0%A2%D0%92+999
 #EXTINF:-1 tvg-id="codefashion" tvg-logo="http://logos.epg.cloudns.org/codefashion.png",Code Fashion
 https://cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
+#EXTINF:0,Geo Super
+plugin://plugin.video.tvone1112/play/1/play.pvr
+#EXTINF:0,PTV Sports
+plugin://plugin.video.tvone1112/play/3/play.pvr
+#EXTINF:0,Ten Sports
+plugin://plugin.video.tvone1112/play/33/play.pvr
+#EXTINF:0,1 Sports
+plugin://plugin.video.tvone1112/play/1070/play.pvr
+#EXTINF:0,DD Sports
+plugin://plugin.video.tvone1112/play/423/play.pvr
+#EXTINF:0,Sony Six
+plugin://plugin.video.tvone1112/play/117/play.pvr
+#EXTINF:0,Sony SIX HD
+plugin://plugin.video.tvone1112/play/978/play.pvr
+#EXTINF:0,Star Select HD 1
+plugin://plugin.video.tvone1112/play/576/play.pvr
+#EXTINF:0,Star Select HD 2
+plugin://plugin.video.tvone1112/play/638/play.pvr
+#EXTINF:0,Star Sports 1
+plugin://plugin.video.tvone1112/play/99/play.pvr
+#EXTINF:0,Star Sports 1 Hindi
+plugin://plugin.video.tvone1112/play/101/play.pvr
+#EXTINF:0,Star Sports 2
+plugin://plugin.video.tvone1112/play/100/play.pvr
+#EXTINF:0,Star Sports 3
+plugin://plugin.video.tvone1112/play/102/play.pvr
+#EXTINF:0,Star Sports First
+plugin://plugin.video.tvone1112/play/980/play.pvr
+#EXTINF:0,TEN 1
+plugin://plugin.video.tvone1112/play/103/play.pvr
+#EXTINF:0,Ten 1 HD
+plugin://plugin.video.tvone1112/play/782/play.pvr
+#EXTINF:0,TEN 2
+plugin://plugin.video.tvone1112/play/104/play.pvr
+#EXTINF:0,TEN 2 HD
+plugin://plugin.video.tvone1112/play/976/play.pvr
+#EXTINF:0,TEN 3
+plugin://plugin.video.tvone1112/play/105/play.pvr
+#EXTINF:0,TEN 3 HD
+plugin://plugin.video.tvone1112/play/977/play.pvr
+#EXTINF:0,Arena Sport 1
+plugin://plugin.video.tvone1112/play/489/play.pvr
+#EXTINF:0,Arena Sport 2
+plugin://plugin.video.tvone1112/play/490/play.pvr
+#EXTINF:0,Astro Cricket
+plugin://plugin.video.tvone1112/play/2083/play.pvr
+#EXTINF:0,Benfica TV
+plugin://plugin.video.tvone1112/play/714/play.pvr
+#EXTINF:0,Big Ten Network
+plugin://plugin.video.tvone1112/play/1861/play.pvr
+#EXTINF:0,Box Nation
+plugin://plugin.video.tvone1112/play/119/play.pvr
+#EXTINF:0,BT Sport 1
+plugin://plugin.video.tvone1112/play/111/play.pvr
+#EXTINF:0,BT Sport 2
+plugin://plugin.video.tvone1112/play/112/play.pvr
+#EXTINF:0,BT Sport 3
+plugin://plugin.video.tvone1112/play/526/play.pvr
+#EXTINF:0,BT Sport ESPN
+plugin://plugin.video.tvone1112/play/253/play.pvr
+#EXTINF:0,BT Sports Box Office
+plugin://plugin.video.tvone1112/play/2082/play.pvr
+#EXTINF:0,Chelsea TV
+plugin://plugin.video.tvone1112/play/445/play.pvr
+#EXTINF:0,Digi Sport 1
+plugin://plugin.video.tvone1112/play/1075/play.pvr
+#EXTINF:0,Digi Sport 2
+plugin://plugin.video.tvone1112/play/1076/play.pvr
+#EXTINF:0,Digi Sport 3
+plugin://plugin.video.tvone1112/play/1077/play.pvr
+#EXTINF:0,Digi Sport 4
+plugin://plugin.video.tvone1112/play/1078/play.pvr
+#EXTINF:0,Eir Sport 1
+plugin://plugin.video.tvone1112/play/535/play.pvr
+#EXTINF:0,Eleven Sports 1
+plugin://plugin.video.tvone1112/play/1490/play.pvr
+#EXTINF:0,Eleven Sports 2
+plugin://plugin.video.tvone1112/play/1491/play.pvr
+#EXTINF:0,ESPN
+plugin://plugin.video.tvone1112/play/287/play.pvr
+#EXTINF:0,ESPN 2
+plugin://plugin.video.tvone1112/play/391/play.pvr
+#EXTINF:0,Euro Sports 1
+plugin://plugin.video.tvone1112/play/106/play.pvr
+#EXTINF:0,Euro Sports 2
+http://cqwcz.ivi.pl:10920/alibi/eurosports2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMiAxOjU4OjI3IFBNJmhhc2hfdmFsdWU9dmREUnJ0VThEblNLSkRjenBCTWI0Zz09JnZhbGlkbWludXRlcz0y|User-Agent=Lavf%2F57.83.100
+#EXTINF:0,Fight Box
+plugin://plugin.video.tvone1112/play/1074/play.pvr
+#EXTINF:0,Fox Sports 1
+plugin://plugin.video.tvone1112/play/1025/play.pvr
+#EXTINF:0,Fox Sports 1 USA
+plugin://plugin.video.tvone1112/play/170/play.pvr
+#EXTINF:0,Fox Sports 2
+plugin://plugin.video.tvone1112/play/1026/play.pvr
+#EXTINF:0,Fox Sports 2 USA
+plugin://plugin.video.tvone1112/play/406/play.pvr
+#EXTINF:0,Fox Sports 3
+plugin://plugin.video.tvone1112/play/488/play.pvr
+#EXTINF:0,Fox Sports 4
+plugin://plugin.video.tvone1112/play/571/play.pvr
+#EXTINF:0,Fox Sports 5
+plugin://plugin.video.tvone1112/play/572/play.pvr
+#EXTINF:0,Free Sports
+plugin://plugin.video.tvone1112/play/1246/play.pvr
+#EXTINF:0,Golf Channel
+plugin://plugin.video.tvone1112/play/447/play.pvr
+#EXTINF:0,LFC TV
+plugin://plugin.video.tvone1112/play/120/play.pvr
+#EXTINF:0,MLB Network
+plugin://plugin.video.tvone1112/play/1080/play.pvr
+#EXTINF:0,MUTV
+plugin://plugin.video.tvone1112/play/411/play.pvr
+#EXTINF:0,NBA TV
+plugin://plugin.video.tvone1112/play/393/play.pvr
+#EXTINF:0,NBCSN
+plugin://plugin.video.tvone1112/play/390/play.pvr
+#EXTINF:0,NFL Network
+plugin://plugin.video.tvone1112/play/400/play.pvr
+#EXTINF:0,Premier Sports
+plugin://plugin.video.tvone1112/play/414/play.pvr
+#EXTINF:0,Real Madrid TV
+plugin://plugin.video.tvone1112/play/114/play.pvr
+#EXTINF:0,Setanta Sports
+plugin://plugin.video.tvone1112/play/540/play.pvr
+#EXTINF:0,SFR Sport 1
+plugin://plugin.video.tvone1112/play/1071/play.pvr
+#EXTINF:0,SFR Sport 2
+plugin://plugin.video.tvone1112/play/1072/play.pvr
+#EXTINF:0,SFR Sport 3
+plugin://plugin.video.tvone1112/play/1073/play.pvr
+#EXTINF:0,Sky Bundesliga 1
+plugin://plugin.video.tvone1112/play/1321/play.pvr
+#EXTINF:0,Sky Bundesliga 2
+plugin://plugin.video.tvone1112/play/1322/play.pvr
+#EXTINF:0,Sky Sport 1 Germany
+plugin://plugin.video.tvone1112/play/1317/play.pvr
+#EXTINF:0,Sky Sport 2 Germany
+plugin://plugin.video.tvone1112/play/1318/play.pvr
+#EXTINF:0,Sky Sport ITalia 1
+plugin://plugin.video.tvone1112/play/387/play.pvr
+#EXTINF:0,Sky Sports Action
+plugin://plugin.video.tvone1112/play/95/play.pvr
+#EXTINF:0,Sky Sports Arena
+plugin://plugin.video.tvone1112/play/983/play.pvr
+#EXTINF:0,Sky Sports Box Office
+plugin://plugin.video.tvone1112/play/995/play.pvr
+#EXTINF:0,Sky Sports Cricket
+plugin://plugin.video.tvone1112/play/94/play.pvr
+#EXTINF:0,Sky Sports F1
+plugin://plugin.video.tvone1112/play/251/play.pvr
+#EXTINF:0,Sky Sports Football
+plugin://plugin.video.tvone1112/play/982/play.pvr
+#EXTINF:0,Sky Sports Golf
+plugin://plugin.video.tvone1112/play/98/play.pvr
+#EXTINF:0,Sky Sports Main Event
+plugin://plugin.video.tvone1112/play/93/play.pvr
+#EXTINF:0,Sky Sports Mix
+plugin://plugin.video.tvone1112/play/580/play.pvr
+#EXTINF:0,Sky Sports News
+plugin://plugin.video.tvone1112/play/811/play.pvr
+#EXTINF:0,Sky Sports Premier League
+plugin://plugin.video.tvone1112/play/96/play.pvr
+#EXTINF:0,SkyNet Sports
+plugin://plugin.video.tvone1112/play/1069/play.pvr
+#EXTINF:0,Sport Klub 1
+plugin://plugin.video.tvone1112/play/534/play.pvr
+#EXTINF:0,Sport Klub 2
+plugin://plugin.video.tvone1112/play/561/play.pvr
+#EXTINF:0,Sport Klub 3
+plugin://plugin.video.tvone1112/play/539/play.pvr
+#EXTINF:0,Sport TV 1
+plugin://plugin.video.tvone1112/play/677/play.pvr
+#EXTINF:0,Sport TV 2
+plugin://plugin.video.tvone1112/play/697/play.pvr
+#EXTINF:0,Sport TV 3
+plugin://plugin.video.tvone1112/play/698/play.pvr
+#EXTINF:0,Sport TV 4
+plugin://plugin.video.tvone1112/play/699/play.pvr
+#EXTINF:0,Sport TV 5
+plugin://plugin.video.tvone1112/play/700/play.pvr
+#EXTINF:0,Sports Net 360
+plugin://plugin.video.tvone1112/play/1327/play.pvr
+#EXTINF:0,Sports Net East
+plugin://plugin.video.tvone1112/play/2124/play.pvr
+#EXTINF:0,Sports Net One
+plugin://plugin.video.tvone1112/play/1325/play.pvr
+#EXTINF:0,Sports Net Ontario
+plugin://plugin.video.tvone1112/play/1326/play.pvr
+#EXTINF:0,Sports Net Pacific
+plugin://plugin.video.tvone1112/play/2123/play.pvr
+#EXTINF:0,Sports Net West
+plugin://plugin.video.tvone1112/play/2125/play.pvr
+#EXTINF:0,Sports Net World
+plugin://plugin.video.tvone1112/play/1324/play.pvr
+#EXTINF:0,Super Sports 1
+plugin://plugin.video.tvone1112/play/165/play.pvr
+#EXTINF:0,Super Sports 2
+plugin://plugin.video.tvone1112/play/166/play.pvr
+#EXTINF:0,Super Sports 3
+plugin://plugin.video.tvone1112/play/167/play.pvr
+#EXTINF:0,Super Sports 4
+plugin://plugin.video.tvone1112/play/168/play.pvr
+#EXTINF:0,Super Tennis
+plugin://plugin.video.tvone1112/play/113/play.pvr
+#EXTINF:0,Tennis Channel
+plugin://plugin.video.tvone1112/play/1079/play.pvr
+#EXTINF:0,TSN 1
+plugin://plugin.video.tvone1112/play/286/play.pvr
+#EXTINF:0,TSN 2
+plugin://plugin.video.tvone1112/play/380/play.pvr
+#EXTINF:0,TSN 3
+plugin://plugin.video.tvone1112/play/523/play.pvr
+#EXTINF:0,TSN 4
+plugin://plugin.video.tvone1112/play/524/play.pvr
+#EXTINF:0,TSN 5
+plugin://plugin.video.tvone1112/play/525/play.pvr
+#EXTINF:0,Willow Cricket
+plugin://plugin.video.tvone1112/play/118/play.pvr
+#EXTINF:0,WWE Network
+plugin://plugin.video.tvone1112/play/108/play.pvr
+#EXTINF:0,Ziggo Sport Select
+plugin://plugin.video.tvone1112/play/675/play.pvr
+#EXTINF:0,Racing UK
+plugin://plugin.video.tvone1112/play/292/play.pvr
+#EXTINF:0,Sky Sports Racing
+plugin://plugin.video.tvone1112/play/291/play.pvr
+#EXTINF:0,Abu Dhabi Sports 1
+plugin://plugin.video.tvone1112/play/214/play.pvr
+#EXTINF:0,Abu Dhabi Sports 2
+plugin://plugin.video.tvone1112/play/585/play.pvr
+#EXTINF:0,Al Kass SP 1
+plugin://plugin.video.tvone1112/play/596/play.pvr
+#EXTINF:0,Al Kass SP 2
+plugin://plugin.video.tvone1112/play/597/play.pvr
+#EXTINF:0,Al Kass SP 3
+plugin://plugin.video.tvone1112/play/598/play.pvr
+#EXTINF:0,Al Kass SP 4
+plugin://plugin.video.tvone1112/play/599/play.pvr
+#EXTINF:0,Al Kass SP 5
+plugin://plugin.video.tvone1112/play/600/play.pvr
+#EXTINF:0,Arriadia Moroco
+plugin://plugin.video.tvone1112/play/904/play.pvr
+#EXTINF:0,Dubai Sports
+plugin://plugin.video.tvone1112/play/212/play.pvr
+#EXTINF:0,MBC Pro Sports 1
+plugin://plugin.video.tvone1112/play/527/play.pvr
+#EXTINF:0,MBC Pro Sports 2
+plugin://plugin.video.tvone1112/play/530/play.pvr
+#EXTINF:0,MBC Pro Sports 3
+plugin://plugin.video.tvone1112/play/531/play.pvr
+#EXTINF:0,Nile Sport
+plugin://plugin.video.tvone1112/play/1659/play.pvr
+#EXTINF:0,ON Sport
+plugin://plugin.video.tvone1112/play/933/play.pvr
+#EXTINF:0,OSN Cricket
+plugin://plugin.video.tvone1112/play/668/play.pvr
+#EXTINF:0,OSN Sports 4
+plugin://plugin.video.tvone1112/play/661/play.pvr
+#EXTINF:0,test
+plugin://plugin.video.tvone1112/play/189/play.pvr
+#EXTINF:0,Irib Varzesh
+plugin://plugin.video.tvone1112/play/1197/play.pvr
+#EXTINF:0,S Sport
+plugin://plugin.video.tvone1112/play/1360/play.pvr
+#EXTINF:0,Smart Spor 1
+plugin://plugin.video.tvone1112/play/1051/play.pvr
+#EXTINF:0,Tivibu Spor 1
+plugin://plugin.video.tvone1112/play/1043/play.pvr
+#EXTINF:0,Tivibu Spor 2
+plugin://plugin.video.tvone1112/play/1044/play.pvr
+#EXTINF:0,Tivibu Spor 3
+plugin://plugin.video.tvone1112/play/1045/play.pvr
+#EXTINF:0,Tivibu Spor 4
+plugin://plugin.video.tvone1112/play/1046/play.pvr
+#EXTINF:0,SKY NEWS
+plugin://plugin.video.tvone111/play/1081/play.pvr
+#EXTINF:0,ITV 1
+plugin://plugin.video.tvone111/play/1297/play.pvr
+#EXTINF:0,ITV 2
+plugin://plugin.video.tvone111/play/1298/play.pvr
+#EXTINF:0,ITV 3
+plugin://plugin.video.tvone111/play/1299/play.pvr
+#EXTINF:0,ITV 4
+plugin://plugin.video.tvone111/play/1300/play.pvr
+#EXTINF:0,BBC 1
+plugin://plugin.video.tvone111/play/1301/play.pvr
+#EXTINF:0,BBC 2
+plugin://plugin.video.tvone111/play/1302/play.pvr
+#EXTINF:0,BBC 3
+plugin://plugin.video.tvone111/play/1303/play.pvr
+#EXTINF:0,BBC 4
+plugin://plugin.video.tvone111/play/1304/play.pvr
+#EXTINF:0,BBC NEWS
+plugin://plugin.video.tvone111/play/1305/play.pvr
+#EXTINF:0,True Movies
+plugin://plugin.video.tvone111/play/1306/play.pvr
+#EXTINF:0,True Movies 2
+plugin://plugin.video.tvone111/play/1307/play.pvr
+#EXTINF:0,RT NEWS
+plugin://plugin.video.tvone111/play/1308/play.pvr
+#EXTINF:0,4e
+plugin://plugin.video.tvone111/play/1310/play.pvr
+#EXTINF:0,Channel 4
+plugin://plugin.video.tvone111/play/1311/play.pvr
+#EXTINF:0,Channel 5
+plugin://plugin.video.tvone111/play/1312/play.pvr
+#EXTINF:0,Gold
+plugin://plugin.video.tvone111/play/1313/play.pvr
+#EXTINF:0,MORE 4
+plugin://plugin.video.tvone111/play/1314/play.pvr
+#EXTINF:0,Dave
+plugin://plugin.video.tvone111/play/1315/play.pvr
+#EXTINF:0,Comedy Central
+plugin://plugin.video.tvone111/play/1316/play.pvr
+#EXTINF:0,Fox
+plugin://plugin.video.tvone111/play/1317/play.pvr
+#EXTINF:0,Universal
+plugin://plugin.video.tvone111/play/1318/play.pvr
+#EXTINF:0,Watch
+plugin://plugin.video.tvone111/play/1319/play.pvr
+#EXTINF:0,Pick TV
+plugin://plugin.video.tvone111/play/1320/play.pvr
+#EXTINF:0,FILM 4
+plugin://plugin.video.tvone111/play/1321/play.pvr
+#EXTINF:0,TRAVEL
+plugin://plugin.video.tvone111/play/1322/play.pvr
+#EXTINF:0,CNBC Europe
+plugin://plugin.video.tvone111/play/1323/play.pvr
+#EXTINF:0,BLOOMBERG
+plugin://plugin.video.tvone111/play/1324/play.pvr
+#EXTINF:0,CBS ACTION
+plugin://plugin.video.tvone111/play/1325/play.pvr
+#EXTINF:0,CBS DRAMA
+plugin://plugin.video.tvone111/play/1326/play.pvr
+#EXTINF:0,ALIBI
+plugin://plugin.video.tvone111/play/1327/play.pvr
+#EXTINF:0,TG 4
+plugin://plugin.video.tvone111/play/1328/play.pvr
+#EXTINF:0,TCM
+plugin://plugin.video.tvone111/play/1329/play.pvr
+#EXTINF:0,5 Star
+plugin://plugin.video.tvone111/play/1330/play.pvr
+#EXTINF:0,MTV 
+plugin://plugin.video.tvone111/play/1332/play.pvr
+#EXTINF:0,MTV CLASSICS
+plugin://plugin.video.tvone111/play/1333/play.pvr
+#EXTINF:0,MTV Base
+plugin://plugin.video.tvone111/play/1334/play.pvr
+#EXTINF:0,MTV Dance
+plugin://plugin.video.tvone111/play/1335/play.pvr
+#EXTINF:0,MTV Hits
+plugin://plugin.video.tvone111/play/1336/play.pvr
+#EXTINF:0,SKY MOVIES DISNEY
+plugin://plugin.video.tvone111/play/1337/play.pvr
+#EXTINF:0,3E
+plugin://plugin.video.tvone111/play/1338/play.pvr
+#EXTINF:0,TLC
+plugin://plugin.video.tvone111/play/1339/play.pvr
+#EXTINF:0,CNN EUROPE
+plugin://plugin.video.tvone111/play/1340/play.pvr
+#EXTINF:0,Sky Living
+plugin://plugin.video.tvone111/play/1341/play.pvr
+#EXTINF:0,SkyAtlantic
+plugin://plugin.video.tvone111/play/1342/play.pvr
+#EXTINF:0,Sky Movies Premiere
+plugin://plugin.video.tvone111/play/1343/play.pvr
+#EXTINF:0,Sky Movies Action
+plugin://plugin.video.tvone111/play/1344/play.pvr
+#EXTINF:0,Sky Movies Comedy
+plugin://plugin.video.tvone111/play/1345/play.pvr
+#EXTINF:0,Sky Movies Family
+plugin://plugin.video.tvone111/play/1346/play.pvr
+#EXTINF:0,Sky Movies SciFi Horror
+plugin://plugin.video.tvone111/play/1347/play.pvr
+#EXTINF:0,Sky Movies Crime
+plugin://plugin.video.tvone111/play/1348/play.pvr
+#EXTINF:0,Sky Movies Greats
+plugin://plugin.video.tvone111/play/1349/play.pvr
+#EXTINF:0,Sky One
+plugin://plugin.video.tvone111/play/1350/play.pvr
+#EXTINF:0,Sky Two
+plugin://plugin.video.tvone111/play/1351/play.pvr
+#EXTINF:0,HBO
+plugin://plugin.video.tvone111/play/1352/play.pvr
+#EXTINF:0,Warner Bros
+plugin://plugin.video.tvone111/play/1353/play.pvr
+#EXTINF:0,FOOD NETWORK
+plugin://plugin.video.tvone111/play/1358/play.pvr
+#EXTINF:0,CBS REALITY
+plugin://plugin.video.tvone111/play/1359/play.pvr
+#EXTINF:0,YESTERDAY
+plugin://plugin.video.tvone111/play/1360/play.pvr
+#EXTINF:0,VH1 CLASSIC
+plugin://plugin.video.tvone111/play/1361/play.pvr
+#EXTINF:0,5 USA
+plugin://plugin.video.tvone111/play/1362/play.pvr
+#EXTINF:0,VH1
+plugin://plugin.video.tvone111/play/1363/play.pvr
+#EXTINF:0,QUEST TV
+plugin://plugin.video.tvone111/play/1364/play.pvr
+#EXTINF:0,HBO HD
+plugin://plugin.video.tvone111/play/1885/play.pvr
+#EXTINF:0,Comedy Central Extra
+plugin://plugin.video.tvone111/play/2155/play.pvr
