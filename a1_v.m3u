@@ -122,7 +122,7 @@ plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=228
 #EXTINF:-1 tvg-id="CNN" tvg-logo="http://logos.epg.cloudns.org/cnn.png",CNN
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=94
 #EXTINF:-1 tvg-id="perviykanal" tvg-logo="https://logos.kodibg.org/perviykanal.png",Perviy Kanal
-plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=117
+https://cdn10.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1678647502
 #EXTINF:-1 tvg-id="RussiaToday" tvg-logo="http://logos.epg.cloudns.org/russiatoday.png",Россия 24
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=116
 #EXTINF:-1 tvg-id="DeutscheWelle" tvg-logo="http://logos.epg.cloudns.org/deutschewelle.png",Deutsche Welle
