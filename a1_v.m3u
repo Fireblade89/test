@@ -117,19 +117,17 @@ plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=105
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=106
 #EXTINF:-1 tvg-id="Bulgaria24" tvg-logo="http://logos.epg.cloudns.org/bulgaria24.png",Bulgaria 24
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=98
-#EXTINF:-1 tvg-id="bhtv" tvg-logo="https://logos.kodibg.org/bhtv.png",Българска Християнска ТВ
+#EXTINF:-1 tvg-id="bhtv" tvg-logo="http://epg.cloudns.org/tv/logos/bhtv.png",Българска Християнска ТВ
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=228
 #EXTINF:-1 tvg-id="CNN" tvg-logo="http://logos.epg.cloudns.org/cnn.png",CNN
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=94
-#EXTINF:-1 tvg-id="perviykanal" tvg-logo="https://logos.kodibg.org/perviykanal.png",Perviy Kanal
+#EXTINF:-1 tvg-id="perviykanal" tvg-logo="http://epg.cloudns.org/tv/logos/perviykanal.png",Perviy Kanal
 https://pkvc-hls4.cdnvideo.ru:443/Poehali/smil:Poehali.smil/chunklist_b1128000_slru.m3u8?hls_proxy_host=6629500d2dbfd5d4bb54110b620706c6
-#EXTINF:-1 tvg-id="RussiaToday" tvg-logo="http://logos.epg.cloudns.org/russiatoday.png",Россия 24
-plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=116
 #EXTINF:-1 tvg-id="DeutscheWelle" tvg-logo="http://logos.epg.cloudns.org/deutschewelle.png",Deutsche Welle
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=95
 #EXTINF:-1 tvg-id="France24" tvg-logo="https://www.a1.bg/getmedia/be1064a2-f876-44ae-adbf-c4c24f550edc/france-24-english.jpg.aspx?width=455&height=620&ext=.jpg",France 24
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=99
-#EXTINF:-1 tvg-id="Mediaset" tvg-logo="https://www.logosurfer.com/wp-content/uploads/2018/03/mediaset-logo_0.png",Mediaset
+#EXTINF:-1 tvg-id="Mediaset" tvg-logo="https://logodix.com/logo/1616002.png",Mediaset
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=129
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cem.bg/files/162305974096731.png",Soul&Pepper
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=42
