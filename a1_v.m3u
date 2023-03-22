@@ -139,3 +139,5 @@ plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=170
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=127
 #EXTINF:-1 tvg-id="codefashion" tvg-logo="http://logos.epg.cloudns.org/codefashion.png",Code Fashion
 https://cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sportaltv", Sportal TV
+https://clb.cdn.bg/sportal/fls/sportal_fullhd/at=c3BvcnRhbC9mbHMvc3BvcnRhbF9mdWxsaGQ7RT0xNjc5NDk5NzQwO0E9MTtLPTE7UD0wMTExMDtTPTFkNmRjMjc1YmNjNmY4MDZhNDFjOGE1ZGViMzJkYTJhMmZlNzk2YTQ=/playlist.m3u8
