@@ -139,7 +139,5 @@ plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=127
 https://cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="78tv" tvg-logo="http://epg.cloudns.org/tv/logos/78tv.png", 7/8 TV
 https://ms3.sedemosmi.tv/live/bjRqbzdvZ21rMjRqbnFzdXJoNWFnbDBlZWo5YTY2dm4/480p.m3u8
-#EXTINF:-1 tvg-id="tv999" tvg-logo="http://epg.cloudns.org/tv/logos/tv999.png", TV 999
-http://live.optinet.bg/n/9999/index.m3u8?st=3hTgtwSrDjqGrAfBdLDR9g&e=1679505065
 #EXTINF:-1 tvg-id="b1bbox" tvg-logo="http://epg.cloudns.org/tv/logos/b1bbox.png", B1B Box HD
 https://e100-ts.cdn.bg/b1b/fls/b1btv.stream/chunklist.m3u8
