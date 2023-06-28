@@ -122,7 +122,7 @@ plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=228
 #EXTINF:-1 tvg-id="CNN" tvg-logo="http://logos.epg.cloudns.org/cnn.png",CNN
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=94
 #EXTINF:-1 tvg-id="perviykanal" tvg-logo="http://epg.cloudns.org/tv/logos/perviykanal.png",Perviy Kanal
-https://vsd61.mycdn.me/hls/528984312566.m3u8/sig/IqDUO9kkaIU/expires/1686417367608/srcIp/37.63.25.149/urls/45.136.21.40/clientType/0/srcAg/CHROME_ANDROID/mid/1115050286838/video.m3u8?p
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8CHROME_ANDROID/mid/1115050286838/video.m3u8?p
 #EXTINF:-1 tvg-id="DeutscheWelle" tvg-logo="http://logos.epg.cloudns.org/deutschewelle.png",Deutsche Welle
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=95
 #EXTINF:-1 tvg-id="France24" tvg-logo="https://www.a1.bg/getmedia/be1064a2-f876-44ae-adbf-c4c24f550edc/france-24-english.jpg.aspx?width=455&height=620&ext=.jpg",France 24
