@@ -1,67 +1,139 @@
 #EXTM3U
-#EXTINF:1 tvg-id="BNT1" tvg-logo="http://logos.epg.cloudns.org/bnt1.png",БНТ 1 HD
+#EXTINF:-1 tvg-id="BNT1" tvg-logo="http://logos.epg.cloudns.org/bnt1.png",БНТ 1 HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=231
-#EXTINF:1 tvg-id="novanews" tvg-logo="http://logos.epg.cloudns.org/novanews.png",Nova News HD
+#EXTINF:-1 tvg-id="bTV" tvg-logo="http://logos.epg.cloudns.org/btv.png",БТВ
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=165
+#EXTINF:-1 tvg-id="NOVA" tvg-logo="http://logos.epg.cloudns.org/nova.png",НОВА
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=154
+#EXTINF:-1 tvg-id="novanews" tvg-logo="http://logos.epg.cloudns.org/novanews.png",Nova News HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=284
-#EXTINF:1 tvg-id="BULGARIAONAIR" tvg-logo="http://logos.epg.cloudns.org/bulgariaonair.png",BULGARIA ON AIR
+#EXTINF:-1 tvg-id="BULGARIAONAIR" tvg-logo="http://logos.epg.cloudns.org/bulgariaonair.png",BULGARIA ON AIR
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=8
-#EXTINF:1 tvg-id="tveurope" tvg-logo="http://logos.epg.cloudns.org/euronews.png",Euronews
+#EXTINF:-1 tvg-id="tveurope" tvg-logo="http://logos.epg.cloudns.org/euronews.png",Euronews
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=87
-#EXTINF:1 tvg-id="Eurocom" tvg-logo="http://logos.epg.cloudns.org/eurocom.png",Евроком HD
+#EXTINF:-1 tvg-id="Eurocom" tvg-logo="http://logos.epg.cloudns.org/eurocom.png",Евроком HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=285
-#EXTINF:1 tvg-id="DiemaSport" tvg-logo="http://logos.epg.cloudns.org/diemasport.png",Diema Sport HD
+#EXTINF:-1 tvg-id="DiemaSport" tvg-logo="http://logos.epg.cloudns.org/diemasport.png",Diema Sport HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=171
-#EXTINF:1 tvg-id="DiemaSport2" tvg-logo="http://logos.epg.cloudns.org/diemasport2.png",Diema Sport 2 HD
+#EXTINF:-1 tvg-id="DiemaSport2" tvg-logo="http://logos.epg.cloudns.org/diemasport2.png",Diema Sport 2 HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=172
-#EXTINF:1 tvg-id="diemasport3" tvg-logo="http://logos.epg.cloudns.org/diemasport3.png",Diema Sport 3 HD
+#EXTINF:-1 tvg-id="diemasport3" tvg-logo="http://logos.epg.cloudns.org/diemasport3.png",Diema Sport 3 HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=186
-#EXTINF:1 tvg-id="MAXSport1" tvg-logo="https://logos.kodibg.org/maxsport1.png",MAX Sport 1 HD
+#EXTINF:-1 tvg-id="MAXSport1" tvg-logo="https://logos.kodibg.org/maxsport1.png",MAX Sport 1 HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=35
-#EXTINF:1 tvg-id="MAXSport2" tvg-logo="https://logos.kodibg.org/maxsport2.png",MAX Sport 2 HD
+#EXTINF:-1 tvg-id="MAXSport2" tvg-logo="https://logos.kodibg.org/maxsport2.png",MAX Sport 2 HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=12
-#EXTINF:1 tvg-id="MAXSport3" tvg-logo="https://logos.kodibg.org/maxsport3.png",MAX Sport 3 HD
+#EXTINF:-1 tvg-id="MAXSport3" tvg-logo="https://logos.kodibg.org/maxsport3.png",MAX Sport 3 HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=11
-#EXTINF:1 tvg-id="MAXSport4" tvg-logo="https://logos.kodibg.org/maxsport4.png",MAX Sport 4 HD
+#EXTINF:-1 tvg-id="MAXSport4" tvg-logo="https://logos.kodibg.org/maxsport4.png",MAX Sport 4 HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=10
-#EXTINF:1 tvg-id="BNT3" tvg-logo="http://logos.epg.cloudns.org/bnt3.png",БНТ 3 HD
+#EXTINF:-1 tvg-id="bTVAction" tvg-logo="http://logos.epg.cloudns.org/btvaction.png",bTV Action HD
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=166
+#EXTINF:-1 tvg-id="RING" tvg-logo="http://logos.epg.cloudns.org/ring.png",RING HD
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=167
+#EXTINF:-1 tvg-id="NovaSport" tvg-logo="http://logos.epg.cloudns.org/novasport.png",Nova Sport HD
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=169
+#EXTINF:-1 tvg-id="BNT3" tvg-logo="http://logos.epg.cloudns.org/bnt3.png",БНТ 3 HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=168
-#EXTINF:1 tvg-id="EdgeSport" tvg-logo="http://logos.epg.cloudns.org/edgesport.png",Edge HD
+#EXTINF:-1 tvg-id="EdgeSport" tvg-logo="http://logos.epg.cloudns.org/edgesport.png",Edge HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=36
-#EXTINF:1 tvg-id="AutoMotorSport" tvg-logo="http://logos.epg.cloudns.org/automotorsport.png",AutoMotorSport HD
+#EXTINF:-1 tvg-id="AutoMotorSport" tvg-logo="http://logos.epg.cloudns.org/automotorsport.png",AutoMotorSport HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=153
-#EXTINF:1 tvg-id="FightBox" tvg-logo="http://logos.epg.cloudns.org/fightbox.png",FightBox HD
+#EXTINF:-1 tvg-id="FightBox" tvg-logo="http://logos.epg.cloudns.org/fightbox.png",FightBox HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=40
-#EXTINF:1 tvg-id="City" tvg-logo="http://logos.epg.cloudns.org/city.png",City TV
+#EXTINF:-1 tvg-id="Diema" tvg-logo="http://logos.epg.cloudns.org/diema.png",Diema
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=9
+#EXTINF:-1 tvg-id="KinoNova" tvg-logo="http://logos.epg.cloudns.org/kinonova.png",KinoNova
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=14
+#EXTINF:-1 tvg-id="bTVComedy" tvg-logo="http://logos.epg.cloudns.org/btvcomedy.png",bTV Comedy HD
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=6
+#EXTINF:-1 tvg-id="bTVCinema" tvg-logo="http://logos.epg.cloudns.org/btvcinema.png",bTV Cinema HD
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=7
+#EXTINF:-1 tvg-id="DiemaFamily" tvg-logo="http://logos.epg.cloudns.org/diemafamily.png",Diema Family
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=85
+#EXTINF:-1 tvg-id="bTVLady" tvg-logo="http://logos.epg.cloudns.org/btvlady.png",bTV Lady HD
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=18
+#EXTINF:-1 tvg-id="TV1000" tvg-logo="http://logos.epg.cloudns.org/tv1000.png",TV 1000
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=29
+#EXTINF:-1 tvg-id="EpicDrama" tvg-logo="http://logos.epg.cloudns.org/epicdrama.png",Epic Drama HD
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=200
+#EXTINF:-1 tvg-id="FilmBoxStars" tvg-logo="http://logos.epg.cloudns.org/filmboxstars.png",FilmBox Stars
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=155
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-logo="http://logos.epg.cloudns.org/cartoonnetwork.png",Cartoon Network
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=67
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="http://logos.epg.cloudns.org/nickelodeon.png",Nickelodeon
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=65
+#EXTINF:-1 tvg-id="DuckTV" tvg-logo="http://logos.epg.cloudns.org/ducktv.png",Duck TV
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=72
+#EXTINF:-1 tvg-id="NickJr" tvg-logo="http://logos.epg.cloudns.org/nickjr.png",Nick Jr.
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=70
+#EXTINF:-1 tvg-id="EKids" tvg-logo="http://logos.epg.cloudns.org/ekids.png",EKids
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=73
+#EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://logos.epg.cloudns.org/boomerang.png",Boomerang Europe
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=68
+#EXTINF:-1 tvg-id="ViasatNature" tvg-logo="http://logos.epg.cloudns.org/viasatnature.png",Viasat Nature HD
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=229
+#EXTINF:-1 tvg-id="ViasatExplorer" tvg-logo="http://logos.epg.cloudns.org/viasatexplorer.png",Viasat Explorer HD
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=24
+#EXTINF:-1 tvg-id="ViasatHistory" tvg-logo="http://logos.epg.cloudns.org/viasathistory.png",Viasat History HD
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=206
+#EXTINF:-1 tvg-id="Travel" tvg-logo="http://logos.epg.cloudns.org/travel.png",Travel TV
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=197
+#EXTINF:-1 tvg-id="Ribalka" tvg-logo="http://logos.epg.cloudns.org/ribalka.png",Рыбалка и охота
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=44
+#EXTINF:-1 tvg-id="WildTV" tvg-logo="https://www.a1.bg/getmedia/8a61b5f3-c83a-4d29-86c5-2ccc85b55790/maxhd_wildtv_hd.png.aspx?width=72&height=74&ext=.png",Wild TV HD
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=45
+#EXTINF:-1 tvg-id="wness" tvg-logo="http://logos.epg.cloudns.org/wness.png",Wness TV HD
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=199
+#EXTINF:-1 tvg-id="Supertoons" tvg-logo="http://logos.epg.cloudns.org/supertoons.png",Supertoons
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=210
+#EXTINF:-1 tvg-id="DaVinciLearning" tvg-logo="http://logos.epg.cloudns.org/davincilearning.png",Da Vinci Learning
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=114
+#EXTINF:-1 tvg-id="City" tvg-logo="http://logos.epg.cloudns.org/city.png",City TV
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=47
-#EXTINF:1 tvg-id="TheVoice" tvg-logo="http://logos.epg.cloudns.org/thevoice.png",The Voice HD
+#EXTINF:-1 tvg-id="TheVoice" tvg-logo="http://logos.epg.cloudns.org/thevoice.png",The Voice HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=287
-#EXTINF:1 tvg-id="MagicTV" tvg-logo="http://logos.epg.cloudns.org/magictv.png",Magic TV HD
+#EXTINF:-1 tvg-id="MagicTV" tvg-logo="http://logos.epg.cloudns.org/magictv.png",Magic TV HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=128
-#EXTINF:1 tvg-id="BoxTV" tvg-logo="http://logos.epg.cloudns.org/boxtv.png",Box TV HD
+#EXTINF:-1 tvg-id="BoxTV" tvg-logo="http://logos.epg.cloudns.org/boxtv.png",Box TV HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=49
-#EXTINF:1 tvg-id="Planeta" tvg-logo="http://logos.epg.cloudns.org/planeta.png",Телевизия Планета HD
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://logos.epg.cloudns.org/mtv.png",MTV Europe
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=50
+#EXTINF:-1 tvg-id="Planeta" tvg-logo="http://logos.epg.cloudns.org/planeta.png",Телевизия Планета HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=107
-#EXTINF:1 tvg-id="hitmix" tvg-logo="http://logos.epg.cloudns.org/hitmix.png",Hit Mix HD
+#EXTINF:-1 tvg-id="hitmix" tvg-logo="http://logos.epg.cloudns.org/hitmix.png",Hit Mix HD
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=185
-#EXTINF:1 tvg-id="ФЕНТВ" tvg-logo="http://logos.epg.cloudns.org/fentv.png",ФЕН ТВ
+#EXTINF:-1 tvg-id="ФЕНТВ" tvg-logo="http://logos.epg.cloudns.org/fentv.png",ФЕН ТВ
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=56
-#EXTINF:1 tvg-id="Balkanika" tvg-logo="http://logos.epg.cloudns.org/balkanika.png",Balkanika
+#EXTINF:-1 tvg-id="Balkanika" tvg-logo="http://logos.epg.cloudns.org/balkanika.png",Balkanika
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=58
-#EXTINF:1 tvg-id="DMSAT" tvg-logo="http://logos.epg.cloudns.org/dmsat.png",DM SAT
+#EXTINF:-1 tvg-id="DMSAT" tvg-logo="http://logos.epg.cloudns.org/dmsat.png",DM SAT
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=60
-#EXTINF:1 tvg-id="PlanetaFolk" tvg-logo="http://logos.epg.cloudns.org/planetafolk.png",Планета Фолк
+#EXTINF:-1 tvg-id="PlanetaFolk" tvg-logo="http://logos.epg.cloudns.org/planetafolk.png",Планета Фолк
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=55
-#EXTINF:1 tvg-id="BNT2" tvg-logo="http://logos.epg.cloudns.org/bnt2.png",БНТ 2
+#EXTINF:-1 tvg-id="BNT2" tvg-logo="http://logos.epg.cloudns.org/bnt2.png",БНТ 2
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=105
-#EXTINF:1 tvg-id="BNT4" tvg-logo="http://logos.epg.cloudns.org/bnt4.png",БНТ 4
+#EXTINF:-1 tvg-id="BNT4" tvg-logo="http://logos.epg.cloudns.org/bnt4.png",БНТ 4
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=106
-#EXTINF:1 tvg-id="Bulgaria24" tvg-logo="http://logos.epg.cloudns.org/bulgaria24.png",Bulgaria 24
+#EXTINF:-1 tvg-id="Bulgaria24" tvg-logo="http://logos.epg.cloudns.org/bulgaria24.png",Bulgaria 24
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=98
-#EXTINF:1 tvg-id="perviykanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/1920px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png",Perviy Kanal
-https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-logo="https://www.cem.bg/files/162305974096731.png",Soul&Pepper
+#EXTINF:-1 tvg-id="bhtv" tvg-logo="http://epg.cloudns.org/tv/logos/bhtv.png",Българска Християнска ТВ
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=228
+#EXTINF:-1 tvg-id="CNN" tvg-logo="http://logos.epg.cloudns.org/cnn.png",CNN
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=94
+#EXTINF:-1 tvg-id="perviykanal" tvg-logo="http://epg.cloudns.org/tv/logos/perviykanal.png",Perviy Kanal
+https://edge1.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd?e=1704375394
+#EXTINF:-1 tvg-id="DeutscheWelle" tvg-logo="http://logos.epg.cloudns.org/deutschewelle.png",Deutsche Welle
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=95
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://www.a1.bg/getmedia/be1064a2-f876-44ae-adbf-c4c24f550edc/france-24-english.jpg.aspx?width=455&height=620&ext=.jpg",France 24
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=99
+#EXTINF:-1 tvg-id="Mediaset" tvg-logo="https://logodix.com/logo/1616002.png",Mediaset
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=129
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cem.bg/files/162305974096731.png",Soul&Pepper
 plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=42
-#EXTINF:1 tvg-id="codefashion" tvg-logo="http://logos.epg.cloudns.org/codefashion.png",Code Fashion
+#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="http://logos.epg.cloudns.org/bloomberg.png",Bloomberg TV HD
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=170
+#EXTINF:-1 tvg-id="TV1" tvg-logo="http://logos.epg.cloudns.org/tv1.png",TV 1 HD
+plugin://plugin.video.mtelnow/?mode=playChannel&profile_id=287198&channel_id=127
+#EXTINF:-1 tvg-id="codefashion" tvg-logo="http://logos.epg.cloudns.org/codefashion.png",Code Fashion
 https://cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="b1bbox" tvg-logo="http://epg.cloudns.org/tv/logos/b1bbox.png", B1B Box
-https://e100-ts.cdn.bg/b1b/fls/b1btv.stream/chunklist.m3u8
