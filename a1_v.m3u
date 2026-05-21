@@ -19,13 +19,13 @@ plugin://plugin.video.mtelnow/?mode=playChannel&channel_id=171
 plugin://plugin.video.mtelnow/?mode=playChannel&channel_id=172
 #EXTINF:-1 tvg-id="diemasport3" tvg-logo="http://epg.cloudns.org/tv/logos/diemasport3.png",Diema Sport 3 HD
 plugin://plugin.video.mtelnow/?mode=playChannel&channel_id=186
-#EXTINF:-1 tvg-id="MAXSport1" tvg-logo="https://logos.kodibg.org/maxsport1.png",MAX Sport 1 HD
+#EXTINF:-1 tvg-id="MAXSport1" tvg-logo="http://epg.cloudns.org/tv/logos/maxsport1.png",MAX Sport 1 HD
 plugin://plugin.video.mtelnow/?mode=playChannel&channel_id=35
-#EXTINF:-1 tvg-id="MAXSport2" tvg-logo="https://logos.kodibg.org/maxsport2.png",MAX Sport 2 HD
+#EXTINF:-1 tvg-id="MAXSport2" tvg-logo="http://epg.cloudns.org/tv/logos/maxsport2.png",MAX Sport 2 HD
 plugin://plugin.video.mtelnow/?mode=playChannel&channel_id=12
-#EXTINF:-1 tvg-id="MAXSport3" tvg-logo="https://logos.kodibg.org/maxsport3.png",MAX Sport 3 HD
+#EXTINF:-1 tvg-id="MAXSport3" tvg-logo="http://epg.cloudns.org/tv/logos/maxsport3.png",MAX Sport 3 HD
 plugin://plugin.video.mtelnow/?mode=playChannel&channel_id=11
-#EXTINF:-1 tvg-id="MAXSport4" tvg-logo="https://logos.kodibg.org/maxsport4.png",MAX Sport 4 HD
+#EXTINF:-1 tvg-id="MAXSport4" tvg-logo="http://epg.cloudns.org/tv/logos/maxsport4.png",MAX Sport 4 HD
 plugin://plugin.video.mtelnow/?mode=playChannel&channel_id=10
 #EXTINF:-1 tvg-id="bTVAction" tvg-logo="http://epg.cloudns.org/tv/logos/btvaction.png",bTV Action HD
 plugin://plugin.video.mtelnow/?mode=playChannel&channel_id=166
